@@ -32,15 +32,13 @@ Nuvoton, STMicroelectronics, Microchip 등을 포함한 다수의 MCU에서 사�
 | 5 |Nuvoton| M2354 | M2354SJFAE | Cortex-M23 | Custom Board| ✅|✅ |
 | 6 |Nuvoton| M2354 | M2354KJFAE | Cortex-M23 | NuMaker-PFM-M2354| ✅|✅ |
 | 7 |STMicroelectronics| STM32H563 | STM32H563ZI | Cortex-M33 | NUCLEO-H563ZI| ✅|✅ |
-| 8 |STMicroelectronics| STM32H563 | STM32H563ZG | Cortex-M33 | NUCLEO-H563ZI| ✅|✅ |
-| 9 |STMicroelectronics| STM32H562 | STM32H562VG | Cortex-M33 | Custom Board| ✅|예정 |
-| 10 |STMicroelectronics| STM32H562 | STM32H562VI | Cortex-M33 | Custom Board| ✅|예정 |
-| 11 |Renesas| RA6 | R7FA6M4AF3CFB | Cortex-M33 | Custom Board| ✅|예정 |
-| 12 |Renesas| RA6 | R7FA6M5BH3CFC | Cortex-M33 | Custom Board| ✅|예정 |
-| 13 |Renesas| RA6 | R7FA6E10F2CFP | Cortex-M33 | Custom Board| ✅|예정 |
-| 14 |Renesas| RA4 | R7FA4M2AD3CFP | Cortex-M33 | Custom Board| ✅|예정 |
-| 15 |Renesas| RA4 | R7FA4M3AF3CFB | Cortex-M33 | Custom Board| ✅|예정 |
-| 16 |Renesas| RA4 | R7FA4E10D2CFM | Cortex-M33 | Custom Board| ✅|예정 |
+| 8 |STMicroelectronics| STM32H562 | STM32H562VG | Cortex-M33 | Custom Board| ✅|예정 |
+| 9 |Renesas| RA6 | R7FA6M4AF3CFB | Cortex-M33 | Custom Board| ✅|예정 |
+| 10 |Renesas| RA6 | R7FA6M5BH3CFC | Cortex-M33 | Custom Board| ✅|예정 |
+| 11 |Renesas| RA6 | R7FA6E10F2CFP | Cortex-M33 | Custom Board| ✅|예정 |
+| 12 |Renesas| RA4 | R7FA4M2AD3CFP | Cortex-M33 | Custom Board| ✅|예정 |
+| 13 |Renesas| RA4 | R7FA4M3AF3CFB | Cortex-M33 | Custom Board| ✅|예정 |
+| 14 |Renesas| RA4 | R7FA4E10D2CFM | Cortex-M33 | Custom Board| ✅|예정 |
 
 ### 지원 암호 알고리즘
 
